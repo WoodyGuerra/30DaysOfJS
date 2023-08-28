@@ -1,0 +1,1 @@
+console.log(typeof(nome)+'\n'+typeof(idade)+'\n'+typeof(brasileiro)+'\n'+typeof(cpf)+'\n'+typeof(dtNasc))
